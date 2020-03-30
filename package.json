@@ -1,7 +1,10 @@
 {
-  "name": "covid",
+  "name": "covid-tracker",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
   "author": "Thomas Johnson",
   "license": "MIT",
   "dependencies": {

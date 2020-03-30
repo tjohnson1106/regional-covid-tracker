@@ -1,0 +1,1 @@
+{"name":"covid-tracker","version":"1.0.0","main":"index.js","scripts":{"start":"next"},"author":{"name":"Thomas Johnson"},"license":"MIT","dependencies":{"next":"^9.3.1","react":"^16.13.1","react-dom":"^16.13.1","styled-components":"^5.0.1"},"readme":"ERROR: No README data found!","_id":"covid-tracker@1.0.0"}
